@@ -1,80 +1,80 @@
 {
-    "name": "Eduardo Marques Lira",
-    "photo": "https://media.licdn.com/dms/image/v2/D4D03AQFRVIxpVIiE5w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710858401273?e=1743033600&v=beta&t=ErTO0Sq5Q8Dig0_RKMv8eiAr9tN__pmLlr8Q-fhDsHI",
-    "job": "Junior Developer",
-    "location": "São Paulo - SP",
-    "phone": "(11) 99457-5548",
-    "email": "marquesliraeduardo@gmail.com",
-    "skills": {
-      "hardSkills": [
-        {
-          "name": "JavaScript",
-          "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/javascript.png"
-        },
-        {
-          "name": "TypeScript",
-          "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/typescript.png"
-        },
-        {
-          "name": "Html5",
-          "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/html5.png"
-        },
-        {
-          "name": "Css",
-          "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/css-3.png"
-        },
-        {
-          "name": "Git",
-          "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/git.png"
-        },
-        {
-          "name": "GitHub",
-          "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/github.png"
-        },
-        {
-          "name": "VsCode",
-          "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/vscode.png"
-        }
-      ],
-      "softSkills": [
-        "Respeito",
-        "Capacidade de adaptação",
-        "Trabalho em equipe",
-        "Flexibilidade",
-        "Comprometimento com resultados"
-      ]
-    },
-    "languages": [
-      "Português BR",
-      "Inglês (intermediário)"
-    ],
-    "portfolio": [
+  "name": "Eduardo Marques Lira",
+  "photo": "https://media.licdn.com/dms/image/v2/D4D03AQFRVIxpVIiE5w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1710858401273?e=1743033600&v=beta&t=ErTO0Sq5Q8Dig0_RKMv8eiAr9tN__pmLlr8Q-fhDsHI",
+  "job": "Junior Developer",
+  "location": "São Paulo - SP",
+  "phone": "(11) 99457-5548",
+  "email": "marquesliraeduardo@gmail.com",
+  "skills": {
+    "hardSkills": [
       {
-        "name": "Meal Generator",
-        "url": "https://github.com/EduardoMLira/Meal-Generator",
-        "github": true
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/javascript.png"
       },
       {
-        "name": "Pokedex",
-        "url": "https://github.com/EduardoMLira/Pokedex",
-        "github": true
+        "name": "TypeScript",
+        "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/typescript.png"
+      },
+      {
+        "name": "Html5",
+        "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/html5.png"
+      },
+      {
+        "name": "Css",
+        "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/css-3.png"
+      },
+      {
+        "name": "Git",
+        "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/git.png"
+      },
+      {
+        "name": "GitHub",
+        "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/github.png"
+      },
+      {
+        "name": "VsCode",
+        "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/vscode.png"
       }
     ],
-    "professionalExperience": [
-      {
-        "name": "Operador de mapeamento / Akkodis",
-        "period": "Jan 2024 - Dez 2024",
-        "description": "Responsável por operar a interface de software do veículo e gerenciar seu computador interno, incluindo a realização de atualizações no sistema de navegação para garantir que os mapas estejam atualizados, com ruas recém-adicionadas ou outras modificações na rede rodoviária."
-      },
-      {
-        "name": "Revisor Jr. / Acert Online Assessoria Empresarial Ltda",
-        "period": "Dez 2022 - Set 2023",
-        "description": "Aprimorando meu papel como Revisor Júnior, assumi responsabilidades ampliadas, lidando com propostas de valores mais elevados. Além de continuar a análise documental, de assinatura e biometria, passei a contribuir ativamente no treinamento de novos colaboradores. Minha atuação direta em pedidos específicos dos clientes, aliada à gestão de contratos mais complexos, evidencia minha capacidade de adaptação e crescimento profissional. A transição bem-sucedida do cargo de Analista para Revisor reflete a confiança conquistada e a qualidade entregue em nossas operações."
-      },
-      {
-        "name": "Análista de Prevenção à Fraude / Acert Online Assessoria Empresarial Ltda",
-        "period": "Out 2022 - Dez 2022",
-        "description": "Ingressando como Analista de Prevenção a Fraudes na Acert Online, fui fundamental durante o período de teste da empresa para assegurar a qualidade de nossos serviços. Realizei análises documentais, de assinatura e biometria, além de ligações investigativas e avaliação de contratos. Nosso desempenho satisfatório durante o teste resultou na conquista do contrato, destacando-me como profissional dedicado à proteção dos interesses do cliente."
-      }
+    "softSkills": [
+      "Respeito",
+      "Capacidade de adaptação",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Comprometimento com resultados"
     ]
-  }
+  },
+  "languages": [
+    "Português BR",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Meal Generator",
+      "url": "https://github.com/EduardoMLira/Meal-Generator",
+      "github": true
+    },
+    {
+      "name": "Pokedex",
+      "url": "https://github.com/EduardoMLira/Pokedex",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Operador de mapeamento / Akkodis",
+      "period": "Jan 2024 - Dez 2024",
+      "description": "Responsável por operar a interface de software do veículo e gerenciar seu computador interno, incluindo a realização de atualizações no sistema de navegação para garantir que os mapas estejam atualizados, com ruas recém-adicionadas ou outras modificações na rede rodoviária."
+    },
+    {
+      "name": "Revisor Jr. / Acert Online Assessoria Empresarial Ltda",
+      "period": "Dez 2022 - Set 2023",
+      "description": "Aprimorando meu papel como Revisor Júnior, assumi responsabilidades ampliadas, lidando com propostas de valores mais elevados. Além de continuar a análise documental, de assinatura e biometria, passei a contribuir ativamente no treinamento de novos colaboradores. Minha atuação direta em pedidos específicos dos clientes, aliada à gestão de contratos mais complexos, evidencia minha capacidade de adaptação e crescimento profissional. A transição bem-sucedida do cargo de Analista para Revisor reflete a confiança conquistada e a qualidade entregue em nossas operações."
+    },
+    {
+      "name": "Análista de Prevenção à Fraude / Acert Online Assessoria Empresarial Ltda",
+      "period": "Out 2022 - Dez 2022",
+      "description": "Ingressando como Analista de Prevenção a Fraudes na Acert Online, fui fundamental durante o período de teste da empresa para assegurar a qualidade de nossos serviços. Realizei análises documentais, de assinatura e biometria, além de ligações investigativas e avaliação de contratos. Nosso desempenho satisfatório durante o teste resultou na conquista do contrato, destacando-me como profissional dedicado à proteção dos interesses do cliente."
+    }
+  ]
+}
