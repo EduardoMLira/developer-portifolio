@@ -9,31 +9,31 @@
       "hardSkills": [
         {
           "name": "JavaScript",
-          "logo": "https://raw.githubusercontent.com/EduardoMLira/js-developer-portfolio/refs/heads/main/data/imgs/javascript.png"
+          "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/javascript.png"
         },
         {
           "name": "TypeScript",
-          "logo": "https://raw.githubusercontent.com/EduardoMLira/js-developer-portfolio/refs/heads/main/data/imgs/typescript.png"
+          "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/typescript.png"
         },
         {
           "name": "Html5",
-          "logo": "https://raw.githubusercontent.com/EduardoMLira/js-developer-portfolio/refs/heads/main/data/imgs/html5.png"
+          "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/html5.png"
         },
         {
           "name": "Css",
-          "logo": "https://raw.githubusercontent.com/EduardoMLira/js-developer-portfolio/refs/heads/main/data/imgs/css-3.png"
+          "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/css-3.png"
         },
         {
           "name": "Git",
-          "logo": "https://raw.githubusercontent.com/EduardoMLira/js-developer-portfolio/refs/heads/main/data/imgs/git.png"
+          "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/git.png"
         },
         {
           "name": "GitHub",
-          "logo": "https://raw.githubusercontent.com/EduardoMLira/js-developer-portfolio/refs/heads/main/data/imgs/github.png"
+          "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/github.png"
         },
         {
           "name": "VsCode",
-          "logo": "https://raw.githubusercontent.com/EduardoMLira/js-developer-portfolio/refs/heads/main/data/imgs/vscode.png"
+          "logo": "https://raw.githubusercontent.com/EduardoMLira/projeto_curriculo/refs/heads/main/data/imgs/vscode.png"
         }
       ],
       "softSkills": [
